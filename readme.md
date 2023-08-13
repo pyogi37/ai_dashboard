@@ -33,10 +33,11 @@ To run this project, you need to have the following tools installed:
 
 2. Install the dependencies for both the front-end and back-end:
 
-cd dashboard_app
+```cd dashboard_app
 npm install
 cd ../backend
 npm install
+```
 
 3. Run the front-end and back-end servers simultaneously:
 
