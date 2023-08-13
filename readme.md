@@ -72,12 +72,12 @@ ai_dashboard/
 ├── ... (Other project files)
 ```
 
-*The backend folder contains the Express.js server code.
-*The dashboard_app folder contains the React app code.
+- The backend folder contains the Express.js server code.
+- The dashboard_app folder contains the React app code.
 
 ## Features
 
-*Visual representation of performance metrics including accuracy, precision, recall, etc.
-*Interactive charts displaying AI model predictions and actual results.
-*User-friendly interface for starting, stopping, and configuring the AI model.
-*Python script to simulate AI model predictions.
+- Visual representation of performance metrics including accuracy, precision, recall, etc.
+- Interactive charts displaying AI model predictions and actual results.
+- User-friendly interface for starting, stopping, and configuring the AI model.
+- Python script to simulate AI model predictions.
