@@ -1,0 +1,28 @@
+{
+  "name": "ai_dashboard",
+  "version": "1.0.0",
+  "description": "ai dashboard providing insight and control over the ai model's performance and functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyogi37/ai_dashboard_backend.git"
+  },
+  "keywords": [
+    "ai",
+    "dashboard"
+  ],
+  "author": "Priyanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pyogi37/ai_dashboard_backend/issues"
+  },
+  "homepage": "https://github.com/pyogi37/ai_dashboard_backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
