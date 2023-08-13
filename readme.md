@@ -33,7 +33,8 @@ To run this project, you need to have the following tools installed:
 
 2. Install the dependencies for both the front-end and back-end:
 
-```cd dashboard_app
+```
+cd dashboard_app
 npm install
 cd ../backend
 npm install
@@ -41,7 +42,8 @@ npm install
 
 3. Run the front-end and back-end servers simultaneously:
 
-```# From the 'dashboard_app' directory
+```
+# From the 'dashboard_app' directory
 npm start
 
 # From the 'backend' directory
@@ -61,12 +63,14 @@ npm start
 
 The project follows the following directory structure:
 
+```
 ai_dashboard/
 ├── backend/
 │ ├── ... (Express.js server code)
 ├── dashboard_app/
 │ ├── ... (React app code)
 ├── ... (Other project files)
+```
 
 *The backend folder contains the Express.js server code.
 *The dashboard_app folder contains the React app code.
